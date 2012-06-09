@@ -7,7 +7,7 @@
 
 
 nl = []
-rr = "role:stag"
+rr = "role[stag]"
 sr = "role[prod]"
 
 #nodes.find(:role => 'stag') do |n|
